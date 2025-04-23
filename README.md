@@ -7,15 +7,17 @@
 <p align="center">A passionate frontend developer and CCNU student from China.</p>
 
 
-<p align="center">
-   <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="600" alt="Banner GIF"/>
-  <img src="https://img.shields.io/github/actions/workflow/status/159357254680/你的仓库/ci.yml?style=for-the-badge" alt="CI Status" />
-  <img src="https://img.shields.io/github/license/159357254680/你的仓库?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/github/stars/159357254680/你的仓库?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/159357254680/你的仓库?style=social" alt="Forks" />
+ <p align="center">
+    <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="600" alt="Banner GIF"/>
+</p>
 
- 
-  <img src="https://profile-counter.glitch.me/159357254680/count.svg" alt="Visitor Count" />
+
+<p align="center">
+  🎓 计算机专业本科在读 @ CCNU<br>
+  💻 热爱 Web 前端开发，熟悉 React / Vue / TypeScript<br>
+  🧩 正在探索优秀的组件库与高效的前端工程化实践<br>
+  📚 爱折腾，爱记录，爱学习，也爱分享自己的所思所想<br>
+  🎮 平时喜欢玩 Hollow Knight、塞尔达和MOBA游戏 🎵<br>
 </p>
 
 <h2 align="center">🚀 Languages & Tools</h2>
@@ -31,23 +33,20 @@
 
 ## 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/159357254680/项目A"><img src="https://github-readme-stats.vercel.app/api/pin/?username=159357254680&repo=项目A&theme=radical" /></a>
-  <a href="https://github.com/159357254680/项目B"><img src="https://github-readme-stats.vercel.app/api/pin/?username=159357254680&repo=项目B&theme=radical" /></a>
+  <a href="https://github.com/muxi-mini-project/2025-Need-For-Typing-FrontEnd"><img src="https://avatars.githubusercontent.com/u/25431146?s=48&v=4" /></a>
 </p>
 
 
 ## ✒️ Recent Posts
-<!-- 可用 GitHub Action 自动拉取你的博客 RSS -->
-- [文章标题 1](#) <!-- TODO: 填写链接和标题 -->
-- [文章标题 2](#)
-- [文章标题 3](#)
+- [作用域链与执行上下文](https://159357254680.github.io/2025/01/21/%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E4%B8%8E%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87/) 
+- [闭包，垃圾回收和内存泄露](https://159357254680.github.io/2025/02/18/%E9%97%AD%E5%8C%85,%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%92%8C%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2/)
+- [zustand](https://159357254680.github.io/2025/04/16/zustand/)
 
 <!-- ======== 社交链接 ======== -->
 ## 📫 Get in Touch
 <p align="center">
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter)](https://twitter.com/你的账号)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/你的账号)
-  [![Mail](https://img.shields.io/badge/Mail-D14836?style=social&logo=gmail)](mailto:your.email@example.com) <!-- TODO: 填邮箱 -->
+ ![QQ](https://img.shields.io/badge/QQ-2820668937-blue?style=flat-square&logo=tencent-qq)
+    ![邮箱](https://img.shields.io/badge/邮箱-2820668937@qq.com-blue?style=flat-square&logo=gmail)
 </p>
 
 <p align="right">
