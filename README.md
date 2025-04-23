@@ -62,9 +62,6 @@
 </div>
 
 
-<details>
-  ![Snake Animation](https://raw.githubusercontent.com/159357254680/159357254680/output/github-contribution-grid-snake.svg)
-</details>
 
 <p align="right">
   <a href="#top">Back to top ⬆️</a>
