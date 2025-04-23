@@ -42,16 +42,15 @@
 </div>
 
 <p align="center">
-- <img src="https://raw.githubusercontent.com/159357254680/159357254680/master/assets/typing.gif" width="24" alt="typing" />
-  [作用域链与执行上下文](https://159357254680.github.io/2025/01/21/%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E4%B8%8E%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87/)  
-- <img src="https://raw.githubusercontent.com/159357254680/159357254680/master/assets/page_flip.gif" width="24" alt="flip" />
-  [闭包，垃圾回收和内存泄露](https://159357254680.github.io/2025/02/18/%E9%97%AD%E5%8C%85,%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%92%8C%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2/)  
-- <img src="https://raw.githubusercontent.com/159357254680/159357254680/master/assets/zustand.gif" width="24" alt="zustand" />
-  [zustand](https://159357254680.github.io/2025/04/16/zustand/)  
+- <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="24" alt="typing" />
+  [作用域链与执行上下文](https://159357254680.github.io/2025/01/21/...)
+- <img src="https://media.giphy.com/media/LL1nGyiqQWlqz2qhkl/giphy.gif" width="24" alt="page flip" />
+  [闭包，垃圾回收和内存泄露](https://159357254680.github.io/2025/02/18/...)
 </p>
 
 ## 📫 Get in Touch
 <div align="center">
+  <!-- 自行将这两张 GIF 上传到 assets 目录 -->
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=TBD">
     <img src="https://raw.githubusercontent.com/159357254680/159357254680/master/assets/qq_shake.gif"
          alt="QQ" width="40" />
@@ -66,6 +65,7 @@
   <summary>🐍 点击查看我的贡献蛇</summary>
 
   <p align="center">
+    <!-- 生成后放到 output 分支或 assets 目录 -->
     <img src="https://raw.githubusercontent.com/159357254680/159357254680/output/github-contribution-grid-snake.gif"
          alt="Contribution Snake" />
   </p>
@@ -76,3 +76,5 @@
 </p>
 
 <p align="center">Last Edited on: 2025/4/23</p>
+
+
