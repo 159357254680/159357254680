@@ -35,31 +35,28 @@
   </a>
 </p>
 
+
 ## ✒️ Recent Posts
 <div align="center">
-  <img src="https://raw.githubusercontent.com/159357254680/159357254680/master/assets/posts_banner.gif"
-       alt="Recent Posts Banner" width="600" />
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VmejhueHBvdGJ2cWM0dWtrYXM4b2hwazAxY2h0aTBpMGN4NmJ6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YHpmahJgMjxL6S29Au/200w.gif"
+    alt="Recent Posts Banner"
+    width="600"
+  />
 </div>
 
 <p align="center">
-- <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="24" alt="typing" />
-  [作用域链与执行上下文](https://159357254680.github.io/2025/01/21/...)
-- <img src="https://media.giphy.com/media/LL1nGyiqQWlqz2qhkl/giphy.gif" width="24" alt="page flip" />
-  [闭包，垃圾回收和内存泄露](https://159357254680.github.io/2025/02/18/...)
+  <div>
+    - <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="24" alt="typing" />
+    [作用域链与执行上下文](https://159357254680.github.io/2025/01/21/...)
+  </div>
+
+  <div>
+    - <img src="https://media.giphy.com/media/LL1nGyiqQWlqz2qhkl/giphy.gif" width="24" alt="page flip" />
+    [闭包，垃圾回收和内存泄露](https://159357254680.github.io/2025/02/18/...)
+  </div>
 </p>
 
-## 📫 Get in Touch
-<div align="center">
-  <!-- 自行将这两张 GIF 上传到 assets 目录 -->
-  <a href="https://qm.qq.com/cgi-bin/qm/qr?k=TBD">
-    <img src="https://raw.githubusercontent.com/159357254680/159357254680/master/assets/qq_shake.gif"
-         alt="QQ" width="40" />
-  </a>
-  <a href="mailto:2820668937@qq.com">
-    <img src="https://raw.githubusercontent.com/159357254680/159357254680/master/assets/mail_bounce.gif"
-         alt="Email" width="40" />
-  </a>
-</div>
 
 <details>
   <summary>🐍 点击查看我的贡献蛇</summary>
