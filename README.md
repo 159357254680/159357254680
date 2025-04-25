@@ -62,14 +62,6 @@
 </div>
 
 
-<details>
-  <summary>🐍 点击查看我的贡献蛇</summary>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/159357254680/159357254680/output/github-contribution-grid-snake.gif"
-         alt="Contribution Snake" />
-  </p>
-</details>
 
 <p align="right">
   <a href="#top">Back to top ⬆️</a>
