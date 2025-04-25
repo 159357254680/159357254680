@@ -62,12 +62,11 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,tailwind,html,css,sass,redux,webpack,express,nodejs,reactnative,mysql,git" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=159357254680)](https://git.io/streak-stats)
 
-<p >
+<p align="center">
   <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=159357254680&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-  <div > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=159357254680&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+  <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=159357254680&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
   <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=159357254680" /> </div>
 
@@ -97,17 +96,9 @@
 
 <div align="center">
 
-  <a href="https://159357254680.github.io/2025/01/21/%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E4%B8%8E%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87/" style="text-decoration: none; display: block; margin: 10px 0;">
-    作用域链与执行上下文
-  </a>
-
-  <a href="https://159357254680.github.io/2025/02/18/%E9%97%AD%E5%8C%85,%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%92%8C%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2/" style="text-decoration: none; display: block; margin: 10px 0;">
-    闭包，垃圾回收和内存泄露
-  </a>
-
-  <a href="https://159357254680.github.io/2025/04/16/zustand/" style="text-decoration: none; display: block; margin: 10px 0;">
-    zustand
-  </a>
+- [作用域链与执行上下文](https://159357254680.github.io/2025/01/21/%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E4%B8%8E%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87/)
+- [闭包，垃圾回收和内存泄露](https://159357254680.github.io/2025/02/18/%E9%97%AD%E5%8C%85,%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%92%8C%E5%86%85%E5%AD%98%E6%B3%84%E9%9C%B2/)
+- [zustand](https://159357254680.github.io/2025/04/16/zustand/)
 
 </div>
 
