@@ -1,8 +1,8 @@
 
-<!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
+
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Zhy
+    Hi!<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Zhy
   </h1>
    <p align="center">A passionate frontend developer and CCNU student from China.</p>
 </p>
@@ -34,12 +34,25 @@
   <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="600" alt="Banner GIF"/>
 </p>
 
-<p align="center">
-  🎓 计算机专业本科在读 @ CCNU<br>
+
+
+<br />
+<br />
+<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
+
+
+<h2 height="200px" align="center">🎉 About Me</h2>
+<br />
+
+ 🎓 计算机专业本科在读 @ CCNU<br>
   💻 热爱 Web 前端开发，熟悉 React / Vue / TypeScript<br>
   🧩 正在探索优秀的组件库与高效的前端工程化实践<br>
   📚 爱折腾，爱记录，爱学习，也爱分享自己的所思所想<br>
   🎮 平时喜欢玩 Hollow Knight、塞尔达和MOBA游戏 <br>
+
+
+<p align="center">
+
 
  <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
  
