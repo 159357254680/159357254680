@@ -61,6 +61,7 @@
 
 </div>
 
+![亮色](https://raw.githubusercontent.com/159357254680/159357254680/output/github-contribution-grid-snake-dark.svg)
 
 
 <p align="right">
