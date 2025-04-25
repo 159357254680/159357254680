@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
 </p>
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi,I'm zhy!&center=true&size=27"> </a> </h1>
 
 <p align="center">A passionate frontend developer and CCNU student from China.</p>
 
