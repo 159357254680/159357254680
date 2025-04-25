@@ -14,9 +14,10 @@
   💻 热爱 Web 前端开发，熟悉 React / Vue / TypeScript<br>
   🧩 正在探索优秀的组件库与高效的前端工程化实践<br>
   📚 爱折腾，爱记录，爱学习，也爱分享自己的所思所想<br>
-  🎮 平时喜欢玩 Hollow Knight、塞尔达和MOBA游戏 🎵<br>
+  🎮 平时喜欢玩 Hollow Knight、塞尔达和MOBA游戏 <br>
 
-  <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+ <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
+ 
 </p>
 
 <h2 align="center">🚀 Languages & Tools</h2>
@@ -31,10 +32,7 @@
 
   <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=159357254680" /> </div>
 
-  <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
-
  
-
   <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?username=159357254680" /> </div>
 
   
