@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
 </p>
 
+![](https://visitor-badge.glitch.me/badge?page_id=159357254680.readme)
+
 
 <p align="center">A passionate frontend developer and CCNU student from China.</p>
 
