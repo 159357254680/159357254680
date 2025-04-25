@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+</p>
 
 <p align="center">
   <h1 height="200px" align="center">
@@ -28,20 +30,17 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="600" alt="Banner GIF"/>
-</p>
 
 
 
 <br />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
-</p>
 <br />
 
 
 <h2 height="200px" align="center">🎉 About Me</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="600" alt="Banner GIF"/>
+</p>
 <br />
 
  🎓 计算机专业本科在读 @ CCNU<br>
