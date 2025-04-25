@@ -38,11 +38,8 @@
 
   <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?username=159357254680" /> </div>
 
-  <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=159357254680&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=159357254680&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=159357254680&layout=compact&theme=radical" alt="Top Languages" />
+  
 </p>
 
 ## 📌 Pinned Repositories
