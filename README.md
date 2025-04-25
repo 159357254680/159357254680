@@ -25,9 +25,7 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
-</p>
+
 
 
 <p align="center">
@@ -38,8 +36,9 @@
 
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+</p>
 
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
