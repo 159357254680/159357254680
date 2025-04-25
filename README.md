@@ -109,7 +109,12 @@
 
 </div>
 
-![亮色](https://raw.githubusercontent.com/159357254680/159357254680/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
+
 
 
 <p align="right">
